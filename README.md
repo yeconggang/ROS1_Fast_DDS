@@ -1,5 +1,5 @@
 # ROS1_Fast_DDS
-A package for implementing /map topic forwarding using fast-dds on ros noetic (ubuntu 20.04 ROS1)
+A package for implementing /map topic forwarding using Fast-DDS on ros noetic (ubuntu 20.04 ROS1)
 
 ## fast_dds_map:
 
